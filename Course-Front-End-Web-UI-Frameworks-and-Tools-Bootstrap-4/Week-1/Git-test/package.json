@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shafayet-Shawal96/Course-Full-Stack-Web-Development-with-React-Specialization.git"
+  },
+  "keywords": [],
+  "author": "Shafayet Shawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shafayet-Shawal96/Course-Full-Stack-Web-Development-with-React-Specialization/issues"
+  },
+  "homepage": "https://github.com/Shafayet-Shawal96/Course-Full-Stack-Web-Development-with-React-Specialization#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
